@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\lab3\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.exe
+C:\Users\student\Desktop\lab3\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.deps.json
+C:\Users\student\Desktop\lab3\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.runtimeconfig.json
+C:\Users\student\Desktop\lab3\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.runtimeconfig.dev.json
+C:\Users\student\Desktop\lab3\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.dll
+C:\Users\student\Desktop\lab3\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.pdb
+C:\Users\student\Desktop\lab3\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.csprojAssemblyReference.cache
+C:\Users\student\Desktop\lab3\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\lab3\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.AssemblyInfo.cs
+C:\Users\student\Desktop\lab3\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lab3\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.dll
+C:\Users\student\Desktop\lab3\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.pdb
+C:\Users\student\Desktop\lab3\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.genruntimeconfig.cache

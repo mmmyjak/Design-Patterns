@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\lab3\prototype\bin\Debug\netcoreapp3.1\prototype.exe
+C:\Users\student\Desktop\lab3\prototype\bin\Debug\netcoreapp3.1\prototype.deps.json
+C:\Users\student\Desktop\lab3\prototype\bin\Debug\netcoreapp3.1\prototype.runtimeconfig.json
+C:\Users\student\Desktop\lab3\prototype\bin\Debug\netcoreapp3.1\prototype.runtimeconfig.dev.json
+C:\Users\student\Desktop\lab3\prototype\bin\Debug\netcoreapp3.1\prototype.dll
+C:\Users\student\Desktop\lab3\prototype\bin\Debug\netcoreapp3.1\prototype.pdb
+C:\Users\student\Desktop\lab3\prototype\obj\Debug\netcoreapp3.1\prototype.csprojAssemblyReference.cache
+C:\Users\student\Desktop\lab3\prototype\obj\Debug\netcoreapp3.1\prototype.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\lab3\prototype\obj\Debug\netcoreapp3.1\prototype.AssemblyInfo.cs
+C:\Users\student\Desktop\lab3\prototype\obj\Debug\netcoreapp3.1\prototype.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lab3\prototype\obj\Debug\netcoreapp3.1\prototype.dll
+C:\Users\student\Desktop\lab3\prototype\obj\Debug\netcoreapp3.1\prototype.pdb
+C:\Users\student\Desktop\lab3\prototype\obj\Debug\netcoreapp3.1\prototype.genruntimeconfig.cache
