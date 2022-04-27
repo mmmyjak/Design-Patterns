@@ -15,14 +15,16 @@ class Context():
         self._strategy = strategy
 
     def rozliczenie(self):
-        return f"Kwota podatku do zapłaty {self._strategy.sposob(self.kwota)}"
+        return f"Kwota podatku do zapłaty: {self._strategy.sposob(self.kwota)}"
 
 class Strategy(ABC):
+
     @abstractmethod
     def sposob(self, kwota):
         pass
 
 class MlodaStrategia(Strategy):
+
     def sposob(self, kwota):
         if kwota > 85000:
             return 0.19*kwota
@@ -46,7 +48,8 @@ if __name__ == "__main__":
 
     wiek = int(input("Podaj wiek: "))
     zarobki = float(input("Podaj zarobki: "))
-    if bool(input("Czy chodzi o dywidendę z USA (KLIKNIJ ENTER, JEŚLI NIE): ")):
+
+    if input("Czy chodzi o dywidendę z USA (KLIKNIJ ENTER, JEŚLI NIE): "):
         print(Context(Dywidenda(), zarobki).rozliczenie())
     else:
         if wiek < 26:
