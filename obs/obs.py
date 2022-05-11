@@ -35,13 +35,14 @@ class ConcreteSubject(Subject):
             observer.update(self)
 
     def update_room(self):
-        _rooms = {1: KitchenStategy, 2: BedroomStrategy, 3: BathroomStrategy}
-        _input = int(input("Where are you?\n"))
+        _rooms = {"1": KitchenStategy, "2": BedroomStrategy, "3": BathroomStrategy}
+        _input = input("Where are you?\n")
+
         if _input in _rooms:
             self._strategy = _rooms[_input]
             self.notify()
         else:
-            print("Error")
+            print("Nie ma takiego pokoju")
 
 class Observer(ABC):
 
