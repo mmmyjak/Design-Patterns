@@ -67,8 +67,10 @@ if __name__ == "__main__":
 
     components = [StringComponent("Jakiś string"), DictionaryComponent({'foo': 'bar'})]
 
+    print("Visitor 1")
     visitor1 = Visitor1()
     client_code(components, visitor1)
 
+    print("Visitor 2")
     visitor2 = Visitor2()
     client_code(components, visitor2)
